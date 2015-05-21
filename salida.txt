@@ -1,0 +1,13 @@
+Ingrese un numero natural para evaluar o un numero no natural para cortar el proceso: 
+Ingrese un numero natural para evaluar o un numero no natural para cortar el proceso: 
+Ingrese un numero natural para evaluar o un numero no natural para cortar el proceso: 
+Ingrese un numero natural para evaluar o un numero no natural para cortar el proceso: 
+Ingrese un numero natural para evaluar o un numero no natural para cortar el proceso: 
+Ingrese un numero natural para evaluar o un numero no natural para cortar el proceso: 
+El numero ingresado no es natural, desea ingresar otro numero? (S/N)
+Ingrese un numero natural para evaluar o un numero no natural para cortar el proceso: 
+Ingrese un numero natural para evaluar o un numero no natural para cortar el proceso: 
+Ingrese un numero natural para evaluar o un numero no natural para cortar el proceso: 
+El numero ingresado no es natural, desea ingresar otro numero? (S/N)
+El mayor numero ingresado es: 777
+Hasta luego!
